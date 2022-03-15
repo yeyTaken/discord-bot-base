@@ -1,0 +1,34 @@
+{
+  "name": "bot-free",
+  "version": "0.0.1",
+  "description": "Um bot em comandos de prefix;",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pani-Kaz/bot-free.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "free",
+    "discord",
+    "bot",
+    "v13",
+    "pani"
+  ],
+  "author": "Pani Kaz#8893",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pani-Kaz/bot-free/issues"
+  },
+  "homepage": "https://github.com/Pani-Kaz/bot-free#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "util": "^0.12.4"
+  }
+}
